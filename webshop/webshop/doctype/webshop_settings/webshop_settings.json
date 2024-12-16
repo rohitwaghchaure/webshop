@@ -15,8 +15,8 @@
   "hide_variants",
   "enable_variants",
   "show_price",
-  "login_required_to_view_products",
   "column_break_9",
+  "login_required_to_view_products",
   "show_stock_availability",
   "show_quantity_in_website",
   "allow_items_not_in_stock",
@@ -378,7 +378,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2024-11-05 13:31:46.657592",
+ "modified": "2024-12-16 16:22:51.445190",
  "modified_by": "Administrator",
  "module": "Webshop",
  "name": "Webshop Settings",
@@ -393,6 +393,10 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "read": 1,
+   "role": "All"
   }
  ],
  "sort_field": "modified",
